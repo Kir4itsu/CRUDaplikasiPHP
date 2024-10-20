@@ -8,19 +8,19 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>Aplikasi CRUD</title>
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.php">PHP CRUD OPERATION</a>
+        <a class="navbar-brand" href="index.php">Operasi CRUD PHP</a>
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-              <a type="button" class="btn btn-primary nav-link active" href="create.php">Add New</a>
+              <a type="button" class="btn btn-primary nav-link active" href="create.php">Tambahkan Baru</a>
             </li>
           </ul>
         </div>
@@ -31,11 +31,11 @@
     <thead>
       <tr>
         <th>ID</th>
-        <th>NAME</th>
-        <th>EMAIL</th>
-        <th>PHONE</th>
-        <th>JOINING DATE</th>
-        <th>ACTIONS</th>
+        <th>Nama</th>
+        <th>Email</th>
+        <th>Nomor Telepon</th>
+        <th>Tanggal Gabung</th>
+        <th>Menu Aksi</th>
       </tr>
     </thead>
     <tbody>
