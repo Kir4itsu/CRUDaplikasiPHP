@@ -12,7 +12,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>CRUD</title>
+ <title>Aplikasi CRUD</title>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
@@ -23,14 +23,14 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.php">PHP CRUD OPERATION</a>
+        <a class="navbar-brand" href="index.php">Operasi CRUD PHP</a>
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="create.php"><span style="font-size:larger;">Add New</span></a>
+              <a class="nav-link" href="create.php"><span style="font-size:larger;">Tambahkan</span></a>
             </li>
           </ul>
         </div>
@@ -43,7 +43,7 @@
  <br><br><div class="card">
  
  <div class="card-header bg-primary">
- <h1 class="text-white text-center">  Create New Member </h1>
+ <h1 class="text-white text-center">  Masukkan Daftar Anggota </h1>
  </div><br>
 
  <label> Nama: </label>
