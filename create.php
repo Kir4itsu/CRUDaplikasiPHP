@@ -55,8 +55,8 @@
  <label> Nomor Telepon: </label>
  <input type="text" name="phone" class="form-control"> <br>
 
- <button class="btn btn-success" type="submit" name="submit"> Submit </button><br>
- <a class="btn btn-info" type="submit" name="cancel" href="index.php"> Cancel </a><br>
+ <button class="btn btn-success" type="submit" name="submit"> Kirim </button><br>
+ <a class="btn btn-info" type="submit" name="cancel" href="index.php"> Batalkan </a><br>
 
  </div>
  </form>
