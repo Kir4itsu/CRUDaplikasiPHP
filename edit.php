@@ -52,14 +52,14 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark" class="fw-bold">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.php">PHP CRUD OPERATION</a>
+        <a class="navbar-brand" href="index.php">Operasi CRUD PHP</a>
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="create.php">Add New</a>
+              <a class="nav-link" href="create.php">Tambahkan Baru</a>
             </li>
           </ul>
         </div>
@@ -72,7 +72,7 @@
  <br><br><div class="card">
  
  <div class="card-header bg-warning">
- <h1 class="text-white text-center">  Update Member </h1>
+ <h1 class="text-white text-center">  Update Anggota </h1>
  </div><br>
 
  <input type="hidden" name="id" value="<?php echo $id; ?>" class="form-control"> <br>
