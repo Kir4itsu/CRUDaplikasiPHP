@@ -46,13 +46,13 @@
  <h1 class="text-white text-center">  Create New Member </h1>
  </div><br>
 
- <label> NAME: </label>
+ <label> Nama: </label>
  <input type="text" name="name" class="form-control"> <br>
 
- <label> EMAIL: </label>
+ <label> Email: </label>
  <input type="text" name="email" class="form-control"> <br>
 
- <label> PHONE: </label>
+ <label> Nomor Telepon: </label>
  <input type="text" name="phone" class="form-control"> <br>
 
  <button class="btn btn-success" type="submit" name="submit"> Submit </button><br>
